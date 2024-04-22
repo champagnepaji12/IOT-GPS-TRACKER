@@ -1,4 +1,4 @@
-# Build-a-GPS-tracker-using-Neo-6m-Module--ESP8266--nodejs--mongodb-and-EJS-
+
 Build a GPS tracker using Neo 6m Module, ESP8266, nodejs, mongodb and EJS 
 Hey Everyone, I hope you guys are safe and sound. In this tutorial we are going to “ Build a GPS tracker using Neo 6m Module, ESP8266, nodejs, mongodb and EJS ”.
 #### In this tutorial I have covered following topics : 
